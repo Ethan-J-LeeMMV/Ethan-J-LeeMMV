@@ -1,0 +1,12 @@
+- 👋 Hi, I’m Ethan
+- 👀 I’m interested in web development/mobile applications
+- 🌱 I’m currently learning web development frameworks 
+- 💞️ I’m looking to collaborate on application building projects
+- 📫 How to reach me: ethanlee1@uvic.ca
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: None 😭
+
+<!---
+Ethan-J-LeeMMV/Ethan-J-LeeMMV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
