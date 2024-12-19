@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on application building projects
 - 📫 How to reach me: ethanlee1@uvic.ca
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: None 😭
+- ⚡ Fun fact: I can bench 315 
 
 <!---
 Ethan-J-LeeMMV/Ethan-J-LeeMMV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
