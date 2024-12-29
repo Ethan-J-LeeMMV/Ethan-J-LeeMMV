@@ -1,9 +1,8 @@
 - 👋 Hi, I’m Ethan
 - 👀 I’m interested in web development/mobile applications
 - 🌱 I’m currently learning web development frameworks 
-- 💞️ I’m looking to collaborate on application building projects
+- 💞️ I’m looking to collaborate on web/mobile development projects
 - 📫 How to reach me: ethanlee1@uvic.ca
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I can bench 315 
 
 <!---
