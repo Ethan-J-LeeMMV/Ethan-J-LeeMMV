@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Ethan
-- 👀 I’m interested in web development/mobile applications
-- 🌱 I’m currently learning web development frameworks 
-- 💞️ I’m looking to collaborate on web/mobile development projects
 - 📫 How to reach me: ethanlee1@uvic.ca
 
 <!---
